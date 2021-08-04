@@ -1,6 +1,6 @@
 # Meu portfólio - Fernanda Maki Hirose
 - Desenvolvi meu portfólio usando HTML, CSS e Javascript, responsivo e com modo noturno.
-- <a href="https://fernandamakihirose.github.io/portfolio-fernandamakihirose/">Clique aqui para ver o portfólio.</a>
+- <a href="https://fernandamakihirose.github.io/portfolio/">Clique aqui para ver o portfólio.</a>
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
